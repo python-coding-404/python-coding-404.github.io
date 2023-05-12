@@ -1,0 +1,16 @@
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/nix/store/g2n4v2lhxgq5kvk8m4aqc79agjrajj57-ruby-2.7.6/bin/ruby -I /nix/store/g2n4v2lhxgq5kvk8m4aqc79agjrajj57-ruby-2.7.6/lib/ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-eofbme sitelibdir\=./.gem.20230511-8800-eofbme clean
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-eofbme sitelibdir\=./.gem.20230511-8800-eofbme
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-eofbme sitelibdir\=./.gem.20230511-8800-eofbme install
+install -c -p -m 755 fastfilereaderext.so ./.gem.20230511-8800-eofbme

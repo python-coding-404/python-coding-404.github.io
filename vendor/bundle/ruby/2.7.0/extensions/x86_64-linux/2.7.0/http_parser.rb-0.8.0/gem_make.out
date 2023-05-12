@@ -1,0 +1,16 @@
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/nix/store/g2n4v2lhxgq5kvk8m4aqc79agjrajj57-ruby-2.7.6/bin/ruby -I /nix/store/g2n4v2lhxgq5kvk8m4aqc79agjrajj57-ruby-2.7.6/lib/ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-s0r9cx sitelibdir\=./.gem.20230511-8800-s0r9cx clean
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-s0r9cx sitelibdir\=./.gem.20230511-8800-s0r9cx
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/runner/CoarseSomeBusinesses/a/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230511-8800-s0r9cx sitelibdir\=./.gem.20230511-8800-s0r9cx install
+install -c -p -m 755 ruby_http_parser.so ./.gem.20230511-8800-s0r9cx
